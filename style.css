@@ -1,17 +1,19 @@
 /*estilos de los parrafos
  */
- body{
-    
+ .tituloPrincipal{
+    padding-left: 30px;
  }
+
 #banner{
     width: 100%;
 }
 
 .principal{
     background: #cccccc;
+    padding: 20px;
 }
 
- h1{
+ .tituloCentralizado{
     text-align:center;background: #cccccc;
  }
 
@@ -29,12 +31,22 @@ em strong{
 
 .diferenciales{
     background: #FFFFFF;
+    padding: 30px;
 }
 
-h2{
-    text-align:center;
-}
+
 .items{
     font-style: italic;
 }
 
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferencial{
+    width: 50%;
+
+}
