@@ -1,0 +1,13 @@
+/*estilos de los parrafos
+ */
+ body{
+    background: #cccccc;
+ }
+
+ p{
+    text-align:center;
+}
+
+em strong{
+    color:brown;
+}
